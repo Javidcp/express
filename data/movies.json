@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name" : "Marco",
+        "release" : 2024,
+        "duration" : 150
+    },
+    {
+        "id": 2,
+        "name" : "Kalki 2998 AD",
+        "release" : 2024,
+        "duration" : 181
+    },
+    {
+        "id": 3,
+        "name" : "Empuraan",
+        "release" : 2025,
+        "duration" : 179
+    }
+]
