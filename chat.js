@@ -28,5 +28,5 @@ app.post('/api/v1/movies', (req, res) => {
 })
 
 app.listen(8080, () => {
-    console.log("Server is running");
+    console.log("Server is running...");
 })
